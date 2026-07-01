@@ -20,7 +20,8 @@
 --- 
 
 <div align="center">
-  <h3>Languages</h3>
+  <b><h3>Languages</h3></b>
+  &nbsp;
   <p>
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=html,css,js,php,java,py,c,cpp,r" />
@@ -29,7 +30,8 @@
 </div>
 
 <div align="center">
-  <h3>Frameworks, Databases and Tools:</h3>
+  <b><h3>Frameworks, Databases and Tools:</h3></b>
+  &nbsp;
     <p>
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=react,postgres,mysql,git,github,notion" />
