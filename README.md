@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1 style="border: none; margin-bottom: 0;">Ivis Nobre</h1>
-<h4 style="border: none; margin-top: 5px;">Web Development • Frontend • UI/UX Design</h4>
+<h4 style="border: none;">Web Development • Frontend • UI/UX Design</h4>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-usuario)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ivixs)
