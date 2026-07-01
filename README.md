@@ -15,8 +15,8 @@
 - Bachelor's degree in Information Technology from UFRN (Loading...)
 
 ## :rocket: Currently studying / Focus
-- #### React JS & Advanced Web Development
-- #### JavaScript & PHP API Integrations
+- *React JS & Advanced Web Development*
+- *JavaScript & PHP API Integrations*
 --- 
 
 ### Languages:
