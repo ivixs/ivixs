@@ -19,15 +19,18 @@
 - *JavaScript & PHP API Integrations*
 --- 
 
+<div align="center">
+
 ## :computer: Tecnologias & Ferramentas
 
-| Categoria | Stack / Badges |
-| :--- | :--- |
-| **Linguagens** | <img src="https://skillicons.dev/icons?i=html,css,js,php,java,py,c,cpp,r" alt="Linguagens" /> |
-| **Frameworks & BD** | <img src="https://skillicons.dev/icons?i=react,postgres,mysql" alt="Frameworks e Banco de Dados" /> |
-| **Ferramentas & Design** | <img src="https://skillicons.dev/icons?i=git,github,notion" alt="Ferramentas" /> |
+<h4>Linguagens</h4>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,php,java,py,c,cpp,r" alt="Linguagens" /></a>
 
+<h4>Frameworks & Bancos de Dados</h4>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,postgres,mysql" alt="Frameworks e BD" /></a>
 
+<h4>Ferramentas & Design</h4>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,notion" alt="Ferramentas" /></a>
 ---
 
 ## Github
