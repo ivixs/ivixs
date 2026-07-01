@@ -1,41 +1,38 @@
-# Olá, eu sou o Ivis Nobre! 👋
+![Github Header Banner](img/github-header-banner.png)
 
-Animado por tecnologia, desenvolvimento web e resolução de problemas. Atualmente, sou estudante do 8° período de Tecnologia da Informação na UFRN e estagiário de desenvolvimento web no Governo do Estado do RN.
+## :mortar_board: Academic background
+- Mecatronics Técnico from IFRN (2019)
+- Bachelor's degree in Information Technology from UFRN (Loading...)
 
----
+## :computer: Technologies
+**Languages:**
 
-### 🚀 Sobre Mim
+![C](https://img.shields.io/badge/-C-2ec97e?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-2ec97e?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-2ec97e?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-2ec97e?style=for-the-badge&logo=javascript&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-2ec97e?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-2ec97e?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/-R-2ec97e?style=for-the-badge&logo=r&logoColor=white)
 
-- 🎓 **Acadêmico:** Graduando em Tecnologia da Informação (Bacharelado) pela UFRN (Previsão: 12/2026) e Técnico em Mecatrônica pelo IFRN.
-- 💼 **Atualidade:** Estagiário na Coordenadoria de Tecnologia da Informação e Comunicação (Cotic) da Administração do RN, atuando na criação e manutenção de sites institucionais com React, PHP e JavaScript.
-- 🧠 **Interesses:** Desenvolvimento Web (Frontend & Backend), arquitetura de software e otimização de sistemas.
+**Frameworks & Libraries:**
 
----
+![React](https://img.shields.io/badge/-React-2ec97e?style=for-the-badge&logo=react&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-2ec97e?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-2ec97e?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🛠️ Tecnologias e Ferramentas
+**DevOps & tools:**
 
-| Categoria | Tecnologias |
-| :--- | :--- |
-| **Frontend** | HTML5, CSS3, JavaScript, React JS |
-| **Backend** | PHP, Java, Python, C, C++ |
-| **Banco de Dados** | PostgreSQL, MySQL |
-| **Análise de Dados** | Linguagem R |
-| **Ferramentas** | Git, GitHub, Trello, Notion, Canva |
+![Git](https://img.shields.io/badge/-Git-2ec97e?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-2ec97e?style=for-the-badge&logo=github&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-2ec97e?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-2ec97e?style=for-the-badge&logo=postgresql&logoColor=white)
+![Notion](https://img.shields.io/badge/-Notion-2ec97e?style=for-the-badge&logo=notion&logoColor=white)
+![Trello](https://img.shields.io/badge/-Trello-2ec97e?style=for-the-badge&logo=trello&logoColor=white)
+![Canva](https://img.shields.io/badge/-Canva-2ec97e?style=for-the-badge&logo=canva&logoColor=white)
 
----
-
-### 📈 Experiências de Destaque
-
-- **Cotic - Administração do RN** | *Estagiário de TI (Jun/2025 - Presente)*
-  - Desenvolvimento e manutenção de portais governamentais institucionais focando em padrões modernos de web.
-- **UFRN (COMPERVE)** | *Bolsista de TI (9 meses)*
-  - Modernização, melhoria visual, desempenho e acessibilidade de aplicações web para divulgação de concursos públicos utilizando PHP, JS e PostgreSQL.
-- **UFRN** | *Monitor de Linguagem de Programação R (Out/2025 - Dez/2025)*
-  - Auxílio a estudantes na disciplina de Algoritmos para Ciências Atuariais.
-
----
-
+## :octocat: Github
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ivixs&show_icons=true&theme=radial" alt="Status do GitHub" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivixs&layout=compact&theme=radial" alt="Linguagens mais usadas" height="180em" />
+
+[![GitHub Profile](https://github-widgetbox.vercel.app/api/profile?username=ivixs&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/ivixs)
 </div>
