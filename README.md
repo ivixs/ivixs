@@ -14,9 +14,9 @@
 - Mecatronics Técnico from IFRN (2019)
 - Bachelor's degree in Information Technology from UFRN (Loading...)
 
-## :mortar_board: Currently studying / Focus:
-- ### React JS & Advanced Web Development
-- ### JavaScript & PHP API Integrations
+## :rocket: Currently studying / Focus
+- #### React JS & Advanced Web Development
+- #### JavaScript & PHP API Integrations
 --- 
 
 ### Languages:
