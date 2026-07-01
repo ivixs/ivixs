@@ -36,6 +36,6 @@ Animado por tecnologia, desenvolvimento web e resolução de problemas. Atualmen
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radial" alt="Status do GitHub" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radial" alt="Linguagens mais usadas" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ivixs&show_icons=true&theme=radial" alt="Status do GitHub" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivixs&layout=compact&theme=radial" alt="Linguagens mais usadas" height="180em" />
 </div>
