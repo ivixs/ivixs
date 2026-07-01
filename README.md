@@ -2,9 +2,9 @@
 
 # Ivis Nobre
 
-Mecatronics Técnico (IFRN) • Bachelor's degree in Information Technology (UFRN) (Loading...)
+### Web Development • Frontend • UI/UX Design
 
-[Email](mailto:ivismoura99@gmail.com) • [GitHub](https://github.com/ivixs)
+[LinkedIn](https://linkedin.com/in/seu-usuario)
 
 </div>
 
