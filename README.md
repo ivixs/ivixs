@@ -1,10 +1,5 @@
-<div align="center">
-  <img src="img/github-header-banner.png" alt="Github Header Banner" width="100%" />
-</div>
-
 # 👋 Hello world, I'm Ivis Nobre!
 
-## About me: 
 ### Undergraduate student in Information Technology at Federal University of Rio Grande do Norte (UFRN), web developer, and programmer focused on building institutional websites and solving complex problems.
 
 ## Experience:
@@ -38,10 +33,6 @@
 </p>
 
 ---
-
-### Contact:
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivismoura99@gmail.com)
 
 ## Github
 <div align="center">
