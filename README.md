@@ -1,38 +1,50 @@
-![Github Header Banner](img/github-header-banner.png)
+<div align="center">
+  <img src="img/github-header-banner.png" alt="Github Header Banner" width="100%" />
+</div>
 
-## :mortar_board: Academic background
-- Mecatronics Técnico from IFRN (2019)
-- Bachelor's degree in Information Technology from UFRN (Loading...)
+# 👋 Hello world, I'm Ivis Nobre!
 
-## :computer: Technologies
-**Languages:**
+## About me: 
+### Undergraduate student in Information Technology at Federal University of Rio Grande do Norte (UFRN), web developer, and programmer focused on building institutional websites and solving complex problems.
 
-![C](https://img.shields.io/badge/-C-2ec97e?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-2ec97e?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-2ec97e?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-2ec97e?style=for-the-badge&logo=javascript&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-2ec97e?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-2ec97e?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/-R-2ec97e?style=for-the-badge&logo=r&logoColor=white)
+## Experience:
+- **IT Intern - Coordenadoria de Tecnologia da Informação e Comunicação (Cotic - RN)**  
+  Currently working on web development, creating and maintaining institutional websites for the State of RN using technologies like PHP, HTML, CSS, JavaScript, and React JS.
 
-**Frameworks & Libraries:**
+- **IT Scholarship Holder - Núcleo Permanente de Concursos (COMPERVE - UFRN)** (9 months)  
+  Worked on developing and improving web applications for public contests, focusing on performance, accessibility, responsiveness, and modernization using HTML, CSS, JavaScript, PHP, and PostgreSQL.
 
-![React](https://img.shields.io/badge/-React-2ec97e?style=for-the-badge&logo=react&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-2ec97e?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-2ec97e?style=for-the-badge&logo=css3&logoColor=white)
+- **R Programming Language Monitor - UFRN** (Out/2025 - Dez/2025)  
+  Assisted students in learning the R language and solving practical exercises for the Algorithms for Actuarial Sciences course.
 
-**DevOps & tools:**
+## Currently studying / Focus:
+- ### React JS & Advanced Web Development
+- ### JavaScript & PHP API Integrations
 
-![Git](https://img.shields.io/badge/-Git-2ec97e?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-2ec97e?style=for-the-badge&logo=github&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-2ec97e?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-2ec97e?style=for-the-badge&logo=postgresql&logoColor=white)
-![Notion](https://img.shields.io/badge/-Notion-2ec97e?style=for-the-badge&logo=notion&logoColor=white)
-![Trello](https://img.shields.io/badge/-Trello-2ec97e?style=for-the-badge&logo=trello&logoColor=white)
-![Canva](https://img.shields.io/badge/-Canva-2ec97e?style=for-the-badge&logo=canva&logoColor=white)
+--- 
 
-## :octocat: Github
+### Languages:
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,java,py,c,cpp,r" />
+  </a>
+</p>
+
+### Frameworks, Databases and Tools:
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,postgres,mysql,git,github,notion" />
+  </a>
+</p>
+
+---
+
+### Contact:
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivismoura99@gmail.com)
+
+## Github
 <div align="center">
 
-[![GitHub Profile](https://github-widgetbox.vercel.app/api/profile?username=ivixs&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/ivixs)
+[![GitHub Profile](https://github-widgetbox.vercel.app/api/profile?username=ivixs&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/ivixs)
 </div>
