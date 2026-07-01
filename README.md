@@ -1,4 +1,4 @@
-# 👋 Hello world, I'm Ivis Nobre!
+# 👋 Hi , I'm Ivis Nobre!
 
 ### Undergraduate student in Information Technology at Federal University of Rio Grande do Norte (UFRN), web developer, and programmer focused on building institutional websites and solving complex problems.
 
