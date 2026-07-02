@@ -16,21 +16,15 @@ Substitua SEU_USUARIO, SEU_LINKEDIN conforme necessário.
 
 ---
 
-# 👨‍💻 Sobre mim
+<h3 style="border: none;">:mortar_board: Formação Acadêmica</h3>
 
-```yaml
-Nome: Ivis Nobre
-Cargo: Full Stack Developer
-Formação: Bacharelado em Tecnologia da Informação - UFRN
-Técnico: Mecatrônica - IFRN
-Atuação: Estagiário na COTIC - Governo do RN
-```
+- **Técnico em Mecatrônica** — IFRN (2019)
+- **Bacharelado em Tecnologia da Informação** — UFRN (*Cursando* ⏳)
 
-Sou estudante do 8º período de Tecnologia da Informação na UFRN e Técnico em Mecatrônica pelo IFRN.
+<h3 style="border: none;">:rocket: Foco Atual & Estudos</h3>
 
-Atualmente atuo como Desenvolvedor Full Stack na COTIC do Governo do Rio Grande do Norte, desenvolvendo aplicações completas utilizando React, PHP, JavaScript, PostgreSQL e outras tecnologias.
-
-Tenho experiência em desenvolvimento frontend, backend, APIs REST, autenticação JWT, bancos de dados relacionais e manutenção de sistemas corporativos.
+- **React JS** & Desenvolvimento Web Avançado
+- Integração de APIs com **JavaScript** & **PHP**
 
 ---
 
