@@ -1,6 +1,4 @@
-# Ivis Nobre
-
-> Full Stack Developer | Tecnologia da Informação - UFRN
+> Ivis Nobre | Full Stack Developer | Tecnologia da Informação - UFRN
 
 <!--
 Substitua SEU_USUARIO, SEU_LINKEDIN conforme necessário.
