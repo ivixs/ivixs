@@ -44,6 +44,10 @@
       <img src="https://img.shields.io/badge/JavaScript-0d0d0d?style=flat-square&color=0d0d0d&labelColor=0ff0fc10"/>
     </td>
     <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="52"/><br/>
+      <img src="https://img.shields.io/badge/Bootstrap-0d0d0d?style=flat-square&color=0d0d0d&labelColor=0ff0fc10"/>
+    </td>
+    <td align="center" width="110">
       <img src="https://skillicons.dev/icons?i=html" width="52"/><br/>
       <img src="https://img.shields.io/badge/HTML5-0d0d0d?style=flat-square&color=0d0d0d&labelColor=0ff0fc10"/>
     </td>
