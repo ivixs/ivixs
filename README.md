@@ -14,6 +14,8 @@ Substitua SEU_USUARIO, SEU_LINKEDIN conforme necessário.
 
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:bf00ff,100:0d0d0d&height=3&section=header"/>
+
 ---
 
 <h3 style="border: none;">:mortar_board: Formação Acadêmica</h3>
