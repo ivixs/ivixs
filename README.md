@@ -8,9 +8,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=0ff0fc&labelColor=0d0d0d)](https://www.linkedin.com/in/ivis-nobre/)
 [![Gmail](https://img.shields.io/badge/GMAIL-0d0d0d?style=for-the-badge&logo=gmail&logoColor=bf00ff&labelColor=0d0d0d)](mailto:ivismoura99@gmail.com)
-![GitHub followers](https://img.shields.io/github/followers/ivixs?style=for-the-badge&color=bf00ff&labelColor=0d0d0d&label=FOLLOWERS)
-![GitHub User's stars](https://img.shields.io/github/stars/ivixs?style=for-the-badge&color=0ff0fc&labelColor=0d0d0d&label=TOTAL+STARS)
-[![GitHub](https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=0ff0fc&labelColor=0d0d0d)](https://github.com/ivixs)
 
 </div>
 
@@ -126,20 +123,6 @@
 
 ---
 
-## <img src="https://img.shields.io/badge/_%3E_ls_./projects-0d0d0d?style=for-the-badge&logo=gnubash&logoColor=bf00ff"/>
-
-## ⭐ Destaque de Projeto
-
-<div align="center">
-
-| 📦 Projeto | 🛠️ Tecnologias | ⚙️ Funcionalidades |
-|:---|:---:|:---|
-| [**Sistema de Gestão Patrimonial**](https://github.com/ivixs) <br/> <sub>Solução robusta de controle patrimonial</sub> | `React` `Go` `PostgreSQL` `JWT` | • Autenticação segura via tokens <br> • Dashboard interativo <br> • Gestão de bens, fornecedores e setores <br> • Paginação otimizada em APIs REST |
-
-</div>
-
----
-
 ## <img src="https://img.shields.io/badge/_%3E_git_log_--stat-0d0d0d?style=for-the-badge&logo=gnubash&logoColor=0ff0fc"/>
 
 ## 📊 GitHub Stats
@@ -170,6 +153,6 @@
 
 <br>
 
-> "A tecnologia cria soluções. O conhecimento transforma essas soluções em impacto."
+> “Se você vai tentar, vá até o fim, caso contrário, nem comece." BUKOWSKI, C 
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:bf00ff,50:0ff0fc,100:0d0d0d&height=120&section=footer&text=_&fontSize=1)
