@@ -10,12 +10,11 @@
 [![Gmail](https://img.shields.io/badge/GMAIL-0d0d0d?style=for-the-badge&logo=gmail&logoColor=bf00ff&labelColor=0d0d0d)](mailto:ivismoura99@gmail.com)
 ![GitHub followers](https://img.shields.io/github/followers/ivixs?style=for-the-badge&color=bf00ff&labelColor=0d0d0d&label=FOLLOWERS)
 ![GitHub User's stars](https://img.shields.io/github/stars/ivixs?style=for-the-badge&color=0ff0fc&labelColor=0d0d0d&label=TOTAL+STARS)
+[![GitHub](https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=0ff0fc&labelColor=0d0d0d)](https://github.com/ivixs)
 
 </div>
 
 ---
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:0ff0fc&height=3&section=header"/>
 
 ## <img src="https://img.shields.io/badge/_%3E_whoami-0d0d0d?style=for-the-badge&logo=gnubash&logoColor=0ff0fc"/> 
 
@@ -27,15 +26,11 @@
 - **React JS** & Desenvolvimento Web Avançado
 - Integração de APIs com **JavaScript** & **PHP**
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:bf00ff,100:0d0d0d&height=3&section=header"/>
-
 ---
 
 ## <img src="https://img.shields.io/badge/_%3E_cat_skills.json-0d0d0d?style=for-the-badge&logo=gnubash&logoColor=bf00ff"/>
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d0d0d,100:0ff0fc15&height=10&section=header"/>
 
 **`// FRONTEND`**
 
@@ -106,9 +101,9 @@
   </tr>
 </table>
 
-<p align="center">
+<h4 align="center">
   <code>JWT</code> • <code>REST APIs</code> • <code>Trello</code> • <code>Notion</code> • <code>Canva</code> • <code>R</code> • <code>C / C++</code>
-</p>
+</h4>
 
 </div>
 
@@ -170,10 +165,6 @@
 ## <img src="https://img.shields.io/badge/_%3E_ping_me-0d0d0d?style=for-the-badge&logo=gnubash&logoColor=bf00ff"/>
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=0ff0fc&labelColor=0d0d0d)](https://www.linkedin.com/in/ivis-nobre/)
-[![Gmail](https://img.shields.io/badge/Gmail-0d0d0d?style=for-the-badge&logo=gmail&logoColor=bf00ff&labelColor=0d0d0d)](mailto:ivismoura99@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=0ff0fc&labelColor=0d0d0d)](https://github.com/ivixs)
 
 </div>
 
