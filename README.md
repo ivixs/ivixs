@@ -59,7 +59,7 @@
 <table>
   <tr>
     <td align="center" width="110">
-      <img src="https://techstack-generator.vercel.app/go-icon.svg" width="52"/><br/>
+      <img src="https://skillicons.dev/icons?i=go" width="52"/><br/>
       <img src="https://img.shields.io/badge/Go-0d0d0d?style=flat-square&color=0d0d0d&labelColor=bf00ff20"/>
     </td>
     <td align="center" width="110">
