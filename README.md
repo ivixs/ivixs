@@ -1,44 +1,144 @@
+# Ivis Nobre
+
+> Full Stack Developer | Tecnologia da Informação - UFRN
+
+<!--
+Substitua SEU_USUARIO, SEU_LINKEDIN conforme necessário.
+-->
+
 <div align="center">
 
-<h1 style="border: none; margin-bottom: 0;">Ivis Nobre</h1>
-<h4 style="border: none;">Web Development • Frontend • UI/UX Design</h4>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d47a1,50:1976d2,100:42a5f5&height=220&section=header&text=Ivis%20Nobre&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20UFRN&descSize=17&descAlignY=58&descColor=ffffff&animation=fadeIn)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-usuario)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ivixs)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=700&color=42A5F5&center=true&vCenter=true&width=700&lines=_%3E+Full+Stack+Developer;_%3E+React+%7C+Go+%7C+PHP+%7C+Java;_%3E+PostgreSQL+%7C+MySQL+%7C+JWT;_%3E+Always+learning+new+technologies"/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=SEU_USUARIO&style=for-the-badge&color=1976d2)
 
 </div>
 
 ---
 
-<h3 style="border: none;">:mortar_board: Formação Acadêmica</h3>
+# 👨‍💻 Sobre mim
 
-- **Técnico em Mecatrônica** — IFRN (2019)
-- **Bacharelado em Tecnologia da Informação** — UFRN (*Cursando* ⏳)
+```yaml
+Nome: Ivis Nobre
+Cargo: Full Stack Developer
+Formação: Bacharelado em Tecnologia da Informação - UFRN
+Técnico: Mecatrônica - IFRN
+Atuação: Estagiário na COTIC - Governo do RN
+```
 
-<h3 style="border: none;">:rocket: Foco Atual & Estudos</h3>
+Sou estudante do 8º período de Tecnologia da Informação na UFRN e Técnico em Mecatrônica pelo IFRN.
 
-- **React JS** & Desenvolvimento Web Avançado
-- Integração de APIs com **JavaScript** & **PHP**
+Atualmente atuo como Desenvolvedor Full Stack na COTIC do Governo do Rio Grande do Norte, desenvolvendo aplicações completas utilizando React, PHP, JavaScript, PostgreSQL e outras tecnologias.
 
----
-
-<h3 style="border: none;">:computer: Tecnologias & Ferramentas</h3>
-
-<h4 style="border: none;">Linguagens</h4>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,php,java,py,c,cpp,r" alt="Linguagens" /></a>
-
-<h4 style="border: none;">Frameworks & Bancos de Dados</h4>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,postgres,mysql" alt="Frameworks e BD" /></a>
-
-<h4 style="border: none;">Ferramentas & Design</h4>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,notion" alt="Ferramentas" /></a>
+Tenho experiência em desenvolvimento frontend, backend, APIs REST, autenticação JWT, bancos de dados relacionais e manutenção de sistemas corporativos.
 
 ---
 
-<h3 style="border: none;">:octocat: GitHub Stats</h3>
+# 🚀 Stack
+
+## Frontend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,html,css,js"/>
+</p>
+
+## Backend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=go,php,java,python"/>
+</p>
+
+## Banco de Dados
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=postgres,mysql"/>
+</p>
+
+## Ferramentas
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
+</p>
+
+**Outras:** JWT • REST APIs • Trello • Notion • Canva • R • C • C++
+
+---
+
+# 💼 Experiência
+
+## COTIC - Governo do RN
+- Desenvolvimento Full Stack
+- React
+- PHP
+- HTML/CSS
+- JavaScript
+- Sistemas institucionais
+
+## COMPERVE/UFRN
+- Desenvolvimento e manutenção de aplicações web
+- PHP
+- JavaScript
+- PostgreSQL
+- Responsividade
+- Acessibilidade
+
+## Monitor de Programação R
+- Apoio aos alunos em Algoritmos para Ciências Atuariais.
+
+## Analista de Logística
+- Indicadores de desempenho e otimização de processos.
+
+---
+
+# 📂 Projetos
+
+## Sistema de Gestão Patrimonial
+
+Tecnologias:
+
+- React
+- Go
+- PostgreSQL
+- JWT
+
+Funcionalidades:
+
+- Login seguro
+- Dashboard
+- Gestão de bens
+- Setores
+- Fornecedores
+- Paginação
+- APIs REST
+
+---
+
+# 📊 GitHub
 
 <div align="center">
-  <a href="https://github.com/ivixs">
-    <img src="https://github-widgetbox.vercel.app/api/profile?username=ivixs&data=followers,repositories,stars,commits&theme=nautilus" alt="GitHub Profile" />
-  </a>
+
+![](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true)
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=tokyo-night"/>
+
 </div>
+
+---
+
+# 📫 Contato
+
+- 📧 **ivismoura99@gmail.com**
+- 📱 **+55 (84) 98181-1832**
+- 💼 LinkedIn: in/ivis-nobre/
+
+---
+
+> "A tecnologia cria soluções. O conhecimento transforma essas soluções em impacto."
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:42a5f5,50:1976d2,100:0d47a1&height=120&section=footer)
