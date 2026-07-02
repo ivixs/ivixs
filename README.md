@@ -12,7 +12,7 @@ Substitua SEU_USUARIO, SEU_LINKEDIN conforme necessário.
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=700&color=42A5F5&center=true&vCenter=true&width=700&lines=_%3E+Full+Stack+Developer;_%3E+React+%7C+Go+%7C+PHP+%7C+Java;_%3E+PostgreSQL+%7C+MySQL+%7C+JWT;_%3E+Always+learning+new+technologies"/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=SEU_USUARIO&style=for-the-badge&color=1976d2)
+![Profile Views](https://komarev.com/ghpvc/?username=ivixs&style=for-the-badge&color=1976d2)
 
 </div>
 
