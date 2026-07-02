@@ -14,7 +14,7 @@ Substitua SEU_USUARIO, SEU_LINKEDIN conforme necessário.
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:bf00ff,100:0d0d0d&height=3&section=header"/>
+## <img src="https://img.shields.io/badge/_%3E_whoami-0d0d0d?style=for-the-badge&logo=gnubash&logoColor=0ff0fc"/> 
 
 <h3 style="border: none;">:mortar_board: Formação Acadêmica</h3>
 
@@ -26,9 +26,7 @@ Substitua SEU_USUARIO, SEU_LINKEDIN conforme necessário.
 - **React JS** & Desenvolvimento Web Avançado
 - Integração de APIs com **JavaScript** & **PHP**
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d0d0d,100:0ff0fc15&height=10&section=header"/>
-
-# 🚀 Stack
+## <img src="https://img.shields.io/badge/_%3E_cat_skills.json-0d0d0d?style=for-the-badge&logo=gnubash&logoColor=bf00ff"/>
 
 ## Frontend
 
