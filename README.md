@@ -9,7 +9,6 @@
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=0ff0fc&labelColor=0d0d0d)](https://www.linkedin.com/in/ivis-nobre/)
 [![Gmail](https://img.shields.io/badge/GMAIL-0d0d0d?style=for-the-badge&logo=gmail&logoColor=bf00ff&labelColor=0d0d0d)](mailto:ivismoura99@gmail.com)
 ![GitHub followers](https://img.shields.io/github/followers/ivixs?style=for-the-badge&color=bf00ff&labelColor=0d0d0d&label=FOLLOWERS)
-![GitHub User's stars](https://img.shields.io/github/stars/ivixs?style=for-the-badge&color=0ff0fc&labelColor=0d0d0d&label=TOTAL+STARS)
 
 </div>
 
