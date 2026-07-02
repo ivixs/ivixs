@@ -8,6 +8,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=0ff0fc&labelColor=0d0d0d)](https://www.linkedin.com/in/ivis-nobre/)
 [![Gmail](https://img.shields.io/badge/GMAIL-0d0d0d?style=for-the-badge&logo=gmail&logoColor=bf00ff&labelColor=0d0d0d)](mailto:ivismoura99@gmail.com)
+![GitHub followers](https://img.shields.io/github/followers/ivixs?style=for-the-badge&color=bf00ff&labelColor=0d0d0d&label=FOLLOWERS)
+![GitHub User's stars](https://img.shields.io/github/stars/ivixs?style=for-the-badge&color=0ff0fc&labelColor=0d0d0d&label=TOTAL+STARS)
 
 </div>
 
@@ -34,19 +36,19 @@
 <table>
   <tr>
     <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=react" width="52"/><br/>
-      <img src="https://img.shields.io/badge/React-0d0d0d?style=flat-square&logoColor=0ff0fc&color=0d0d0d&labelColor=0ff0fc10"/>
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="52"/><br/>
+      <img src="https://img.shields.io/badge/React-0d0d0d?style=flat-square&color=0d0d0d&labelColor=0ff0fc10"/>
     </td>
     <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=js" width="52"/><br/>
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="52"/><br/>
       <img src="https://img.shields.io/badge/JavaScript-0d0d0d?style=flat-square&color=0d0d0d&labelColor=0ff0fc10"/>
     </td>
     <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=html" width="52"/><br/>
+      <img src="https://techstack-generator.vercel.app/html5-icon.svg" width="52"/><br/>
       <img src="https://img.shields.io/badge/HTML5-0d0d0d?style=flat-square&color=0d0d0d&labelColor=0ff0fc10"/>
     </td>
     <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=css" width="52"/><br/>
+      <img src="https://techstack-generator.vercel.app/css3-icon.svg" width="52"/><br/>
       <img src="https://img.shields.io/badge/CSS3-0d0d0d?style=flat-square&color=0d0d0d&labelColor=0ff0fc10"/>
     </td>
   </tr>
@@ -57,19 +59,19 @@
 <table>
   <tr>
     <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=go" width="52"/><br/>
+      <img src="https://techstack-generator.vercel.app/go-icon.svg" width="52"/><br/>
       <img src="https://img.shields.io/badge/Go-0d0d0d?style=flat-square&color=0d0d0d&labelColor=bf00ff20"/>
     </td>
     <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=php" width="52"/><br/>
+      <img src="https://techstack-generator.vercel.app/php-icon.svg" width="52"/><br/>
       <img src="https://img.shields.io/badge/PHP-0d0d0d?style=flat-square&color=0d0d0d&labelColor=bf00ff20"/>
     </td>
     <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=java" width="52"/><br/>
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" width="52"/><br/>
       <img src="https://img.shields.io/badge/Java-0d0d0d?style=flat-square&color=0d0d0d&labelColor=bf00ff20"/>
     </td>
     <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=python" width="52"/><br/>
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="52"/><br/>
       <img src="https://img.shields.io/badge/Python-0d0d0d?style=flat-square&color=0d0d0d&labelColor=bf00ff20"/>
     </td>
   </tr>
@@ -80,19 +82,19 @@
 <table>
   <tr>
     <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=postgres" width="52"/><br/>
+      <img src="https://techstack-generator.vercel.app/elasticsearch-icon.svg" width="52"/><br/>
       <img src="https://img.shields.io/badge/PostgreSQL-0d0d0d?style=flat-square&color=0d0d0d&labelColor=0ff0fc10"/>
     </td>
     <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=mysql" width="52"/><br/>
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="52"/><br/>
       <img src="https://img.shields.io/badge/MySQL-0d0d0d?style=flat-square&color=0d0d0d&labelColor=0ff0fc10"/>
     </td>
     <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=git" width="52"/><br/>
+      <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="52"/><br/>
       <img src="https://img.shields.io/badge/Git-0d0d0d?style=flat-square&color=0d0d0d&labelColor=0ff0fc10"/>
     </td>
     <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=github" width="52"/><br/>
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="60"/><br/>
       <img src="https://img.shields.io/badge/GitHub-0d0d0d?style=flat-square&color=0d0d0d&labelColor=0ff0fc10"/>
     </td>
   </tr>
