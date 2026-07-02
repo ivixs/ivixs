@@ -44,11 +44,11 @@
       <img src="https://img.shields.io/badge/JavaScript-0d0d0d?style=flat-square&color=0d0d0d&labelColor=0ff0fc10"/>
     </td>
     <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicon/devicon/icons/html5/html5-original.svg" width="52" class="floating"/><br/>
+      <img src="https://skillicons.dev/icons?i=html" width="52"/><br/>
       <img src="https://img.shields.io/badge/HTML5-0d0d0d?style=flat-square&color=0d0d0d&labelColor=0ff0fc10"/>
     </td>
     <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicon/devicon/icons/css3/css3-original.svg" width="52" class="floating"/><br/>
+      <img src="https://skillicons.dev/icons?i=css" width="52"/><br/>
       <img src="https://img.shields.io/badge/CSS3-0d0d0d?style=flat-square&color=0d0d0d&labelColor=0ff0fc10"/>
     </td>
   </tr>
@@ -63,7 +63,7 @@
       <img src="https://img.shields.io/badge/Go-0d0d0d?style=flat-square&color=0d0d0d&labelColor=bf00ff20"/>
     </td>
     <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicon/devicon/icons/php/php-original.svg" width="52" class="floating"/><br/>
+      <img src="https://skillicons.dev/icons?i=php" width="52"/><br/>
       <img src="https://img.shields.io/badge/PHP-0d0d0d?style=flat-square&color=0d0d0d&labelColor=bf00ff20"/>
     </td>
     <td align="center" width="110">
@@ -82,7 +82,7 @@
 <table>
   <tr>
     <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicon/devicon/icons/postgresql/postgresql-original.svg" width="52" class="floating"/><br/>
+      <img src="https://skillicons.dev/icons?i=postgres" width="52"/><br/>
       <img src="https://img.shields.io/badge/PostgreSQL-0d0d0d?style=flat-square&color=0d0d0d&labelColor=0ff0fc10"/>
     </td>
     <td align="center" width="110">
@@ -90,11 +90,11 @@
       <img src="https://img.shields.io/badge/MySQL-0d0d0d?style=flat-square&color=0d0d0d&labelColor=0ff0fc10"/>
     </td>
     <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicon/devicon/icons/git/git-original.svg" width="52" class="floating"/><br/>
+      <img src="https://skillicons.dev/icons?i=git" width="52"/><br/>
       <img src="https://img.shields.io/badge/Git-0d0d0d?style=flat-square&color=0d0d0d&labelColor=0ff0fc10"/>
     </td>
     <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicon/devicon/icons/github/github-original.svg" width="52" style="filter: invert(1);" class="floating"/><br/>
+      <img src="https://skillicons.dev/icons?i=github" width="52"/><br/>
       <img src="https://img.shields.io/badge/GitHub-0d0d0d?style=flat-square&color=0d0d0d&labelColor=0ff0fc10"/>
     </td>
   </tr>
