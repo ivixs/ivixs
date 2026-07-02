@@ -26,7 +26,7 @@ Substitua SEU_USUARIO, SEU_LINKEDIN conforme necessário.
 - **React JS** & Desenvolvimento Web Avançado
 - Integração de APIs com **JavaScript** & **PHP**
 
----
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d0d0d,100:0ff0fc15&height=10&section=header"/>
 
 # 🚀 Stack
 
